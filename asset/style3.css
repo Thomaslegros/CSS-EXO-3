@@ -1,0 +1,9 @@
+caption{
+    font-weight: bold;
+}
+th , td , table{
+    border: solid #000000 1px;
+}
+tfoot {
+    text-align: center;
+}
